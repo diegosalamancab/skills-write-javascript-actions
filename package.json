@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gm-dian-gh200/skills-write-javascript-actions.git"
+    "url": "git+https://github.com/diegosalamancab/skills-write-javascript-actions.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gm-dian-gh200/skills-write-javascript-actions/issues"
+    "url": "https://github.com/diegosalamancabskills-write-javascript-actions/issues"
   },
-  "homepage": "https://github.com/gm-dian-gh200/skills-write-javascript-actions#readme",
+  "homepage": "https://github.com/diegosalamancab/skills-write-javascript-actions#readme",
   "dependencies": {
     "@actions/core": "^3.0.1",
     "request": "^2.88.2",
